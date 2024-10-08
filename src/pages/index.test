@@ -1,0 +1,478 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Navbar from "../components/Navbar.astro";
+
+---
+
+<Layout  title="Kerala Startup Mission"></Layout>
+
+   
+
+    <div class="page-wrapper">
+
+        <Navbar></Navbar>
+
+
+        <!-- hero-three section start -->
+        <section class="hero-three">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 px-10">
+                        <div class="hero-three__content">
+                            <h2 class="hero-three__title wow fadeInLeft" data-wow-duration='1000ms' data-wow-delay='800ms'>LeapX</h2>
+                            <p class="hero-three__text wow fadeInLeft pt-6" data-wow-duration='1300ms' data-wow-delay='800ms'>
+                                Ready to take your startup to the next level? Apply today to be part of the LeapX Accelerator Program. Seize this opportunity to connect with investors, refine your product, and accelerate your growth trajectory!
+                            </p>
+                            <div class="hero-three__btn wow fadeInLeft" data-wow-duration='1500ms' data-wow-delay='800ms'>
+                                <a class="hostom-btn">Apply Now</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="hero-three__right wow fadeInRight" data-wow-duration='1000ms' data-wow-delay='800ms'>
+                            <div class="hero-three__thumb">
+                                <img src="assets/images/resources/hero-3-1.png" alt="hero image">
+                                <div class="hero-three__thumb__massage__item">
+                                    <img src="assets/images/shapes/hero-massage-1-1.png" alt="icon">
+                                </div>
+                                <div class="hero-three__thumb__massage__item hero-three__thumb__massage__item--two">
+                                    <img src="assets/images/shapes/hero-massage-1-2.png" alt="icon">
+                                </div>
+                                <div class="hero-three__thumb__setting__item">
+                                    <img src="assets/images/shapes/hero-sec-1-1.png" alt="icon">
+                                </div>
+                                <div class="hero-three__thumb__setting__item hero-three__thumb__setting__item--two">
+                                    <img src="assets/images/shapes/hero-sec-1-2.png" alt="icon">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="hero-three__shape wow fadeInLeft" data-wow-duration='1000ms' data-wow-delay='1200ms'>
+                <img src="assets/images/shapes/hero-shape-3-1.png" alt>
+            </div> -->
+        </section>
+        <!-- hero-three section end -->
+
+        <!-- domain-name section start -->
+        <section class="domain-name domain-name--two wow fadeInUp" data-wow-duration='1000ms' data-wow-delay='500ms'>
+            <div class="container">
+                <div class="domain-name__inner domain-name__inner--two">
+                    <div class="domain-name__inner__bg" style="background-image: url(assets/images/backgrounds/domin-bg.png);"></div>
+                   
+                    <div class="text-black font-semibold text-lg text-center md:w-2/3 item-center justify-center mx-auto">
+                        LeapX Accelerator is designed to fuel your startup's journey to success. With access to expert mentors, funding opportunities, and a vast network of industry leaders, LeapX provides a comprehensive platform for startups to innovate, grow, and succeed in today's competitive market.
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- domain-name section end -->
+
+        <!-- about-fore section start -->
+        <section class="about-fore">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6">
+                        <div class="about-fore__left wow fadeInLeft" data-wow-duration='1000ms' data-wow-delay='500ms'>
+                            <div class="about-fore__left__thumb">
+                                <img src="assets/images/resources/about-3-1.png" alt="about image">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6">
+                        <div class="about-fore__content wow fadeInUp" data-wow-duration='1000ms' data-wow-delay='500ms'>
+                            <div class="about-fore__top">
+                                <div class="sec-title text-start wow fadeInUp" data-wow-duration='700ms'>
+                                    <h6 class="sec-title__tagline">About</h6><!-- /.sec-title__tagline -->
+                                    <h3 class="sec-title__title">LeapX Accelerator
+                                    </h3><!-- /.sec-title__title -->
+                                </div><!-- /.sec-title -->
+                                <p class="about-fore__text">
+                                    LeapX Accelerator, an initiative by Kerala Startup Mission (KSUM), is a six-month intensive program designed to help innovative startups unlock their true potential. Tailored to early-stage and growth-stage startups, LeapX provides the essential resources, mentorship, and industry connections to accelerate startup success. Whether you’re looking for seed funding, revenue growth strategies, or networking with industry leaders, LeapX is your gateway to exponential growth.
+                                </p>
+                            </div>
+                            
+                            <div class="about-fore__btn">
+                                <a href="" class="hostom-btn hostom-btn--base">Apply Now</a>
+                            </div>
+                           
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6">
+                        <div class="about-fore__right">
+                            <div class="about-fore__thumb">
+                                <img src="assets/images/resources/about-3-2.png" alt="about image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- about-fore section end -->
+
+        <!-- service-three section start -->
+        <section class="service-three" id="What_We_Offer">
+            <div class="service-three__bg" style="background-image: url(assets/images/shapes/service-bg-3-1.png);"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="sec-title text-center wow fadeInUp" data-wow-duration='700ms'>
+                            <h3 class="sec-title__title">What We Offer
+                            </h3><!-- /.sec-title__title -->
+                        </div><!-- /.sec-title -->
+                    </div>
+                </div>
+                <div class="row gutter-y-30">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="service-three__card  wow fadeInUp" data-wow-duration='1000ms' data-wow-delay='500ms'>
+                            <div class="service-three__item">
+                                <div class="service-three__inner">
+                                    <div class="service-three__icon">
+                                        <i class="icon-network"></i>
+                                    </div>
+                                    <div class="service-three__content">
+                                        <h3 class="service-three__title">Funding Support</h3>
+                                        <p class="service-three__text">
+                                            Startups selected for LeapX are eligible to receive up to $100k in funding, with access to additional capital from KSUM’s Fund of Funds (FoF) partners and other leading venture capital firms.
+
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-three__item">
+                                <div class="service-three__inner">
+                                    <div class="service-three__icon">
+                                        <i class="icon-guru-1"></i>
+                                    </div>
+                                    <div class="service-three__content">
+                                        <h3 class="service-three__title">Personalized Mentorship</h3>
+                                        <p class="service-three__text">
+                                            Our accelerator provides one-on-one mentoring sessions with industry experts, seasoned entrepreneurs, and investors. You’ll receive tailored guidance to tackle business challenges and scale your startup effectively.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6">
+                        <div class="service-three__card service-three__card--two wow fadeInUp" data-wow-duration='1000ms' data-wow-delay='700ms'>
+                            <div class="service-three__item service-three__item--two">
+                                <div class="service-three__inner">
+                                    <div class="service-three__icon">
+                                        <i class="icon-search1"></i>
+                                    </div>
+                                    <div class="service-three__content">
+                                        <h3 class="service-three__title">Revenue Acceleration</h3>
+                                        <p class="service-three__text">
+                                            LeapX focuses not only on product development but also on driving sustainable revenue models. Our revenue acceleration strategies are designed to help you turn ideas into profitable ventures.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="service-three__item">
+                                <div class="service-three__inner">
+                                    <div class="service-three__icon">
+                                        <i class="icon-backup-1"></i>
+                                    </div>
+                                    <div class="service-three__content">
+                                        <h3 class="service-three__title">Industry Connections</h3>
+                                        <p class="service-three__text">
+                                            Through our network of corporate partners, VCs, and angel investors, startups gain direct access to decision-makers and influencers. LeapX opens doors to partnerships, strategic alliances, and customer acquisition channels.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6">
+                        <div class="service-three__card wow fadeInUp" data-wow-duration='1000ms' data-wow-delay='900ms'>
+                            <div class="service-three__item">
+                                <div class="service-three__inner">
+                                    <div class="service-three__icon">
+                                        <i class="icon-data-2"></i>
+                                    </div>
+                                    <div class="service-three__content">
+                                        <h3 class="service-three__title">Demo Day</h3>
+                                        <p class="service-three__text">
+                                            The program culminates with a high-profile Demo Day, where participating startups showcase their progress and business potential to a select audience of investors, corporate leaders, and industry experts. This event serves as a launchpad for further funding and growth opportunities.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        
+      
+
+        <!-- pricing-two section start -->
+        <section class="pricing-two">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="tables wow fadeInUp" data-wow-duration='1000ms' data-wow-delay='500ms'>
+                            <table class="pricing-two__table">
+                                <thead class="pricing-two__table__head">
+                                    <tr>
+                                        <th class="pricing-two__table__head__item">
+                                            <div class="sec-title">
+                                                <div class="tagline">Program Structure
+                                                </div><!-- /.sec-title__tagline -->
+                                                <div class="title">LeapX is structured <br> into two key phases:
+                                                </div><!-- /.sec-title__title -->
+                                            </div><!-- /.sec-title -->
+                                        </th>
+
+                                        <th class="pricing-two__table__head__item">
+                                           
+                                            <div class="pricing-two__table__head__item__title">Phase 1 <br>Acceleration & Evaluation</div>
+                                            <div class="pricing-two__table__head__item__price">
+                                                <p class="pricing-two__table__head__item__price__month">Startups undergo an intensive three-month period of orientation, product and business model development, and initial growth acceleration. At the end of this phase, selected startups receive funding of up to $100k and move forward to Phase 2.
+                                                </p>
+                                            </div>
+                                        </th>
+
+                                        <th class="pricing-two__table__head__item">
+                                            <div class="pricing-two__table__head__item__title">Phase 2 <br>Revenue Growth & Scale</div>
+                                            <div class="pricing-two__table__head__item__price">
+                                                <p class="pricing-two__table__head__item__price__month">
+                                                    In the second phase, startups that have shown potential are provided with additional resources for revenue growth, operational scaling, and direct access to venture capital and corporate partnerships.
+                                                </p>
+                                            </div>
+                                        </th>
+
+                                    </tr>
+                                </thead>
+                              
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- pricing-two section start -->
+
+        <!-- cta-six section start -->
+        <div class="cta-six">
+            <div class="cta-six__bg" style="background-image: url(/img/page-header-bg-1-1.webp);"></div>
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="cta-six__left wow fadeInLeft" data-wow-duration='1000ms' data-wow-delay='500ms'>
+                            <div class="cta-six__content">
+                                <h2 class="cta-six__title">Who Should Apply?</h2>
+                                <h3 class="text-2xl text-white pb-4 font-semibold">LeapX Accelerator is ideal for:</h3>
+                                <p class="cta-six__text text-white">
+                                    <span><i class="icon-star"></i></span>
+                                    <span class="px-2">Early Revenue Stage Startups: If you have a promising product in the B2B space, with some initial traction, LeapX can help you scale rapidly.
+                                    </span>
+                                </p>
+                                <p class="cta-six__text pt-6 text-white">
+                                    <span><i class="icon-star"></i></span>
+                                    <span class="px-2">
+                                        Growth-Stage Startups: If you're generating revenue and ready to take the next big leap, our program will provide the support and mentorship needed to hit your growth targets.
+                                    </span>
+                                </p>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="cta-six__right wow fadeInRight" data-wow-duration='1000ms' data-wow-delay='500ms'>
+                            <div class="cta-six__thumb">
+                                <img src="assets/images/resources/cta-6-1.png" alt="cta image">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- cta-six section start -->
+
+        <!-- benefits-three section start -->
+        <section class="benefits-three">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="benefits-three__left">
+                            <div class="benefits-three__top">
+                                <div class="sec-title text-start wow fadeInUp" data-wow-duration='700ms'>
+                                    <h6 class="sec-title__tagline">Eligibility Criteria
+                                    </h6><!-- /.sec-title__tagline -->
+                                    <h3 class=" text-2xl font-bold pb-0">Startups should:
+                                    </h3><!-- /.sec-title__title -->
+                                </div><!-- /.sec-title -->
+                                <!-- <p class="benefits-three__text"> There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. </p> -->
+                            </div>
+                            <ul class="benefits-three__list list-unstyled mt-3">
+                                <li class="benefits-three__list__item wow fadeInUp" data-wow-duration='1000ms' data-wow-delay='500ms'>
+                                    <div class="benefits-three__list__icon">
+                                        <i class="icon-ssl-certificate-1"></i>
+                                    </div>
+                                    <div class="benefits-three__list__content">
+                                        <!-- <h4 class="benefits-three__list__title"><a href="packages.html">Free SSL Certificates</a></h4> -->
+                                        <p class="benefits-three__list__text text-lg">Be a registered company, ideally in the early revenue or growth phase
+                                        </p>
+                                    </div>
+                                </li>
+
+                                <li class="benefits-three__list__item wow fadeInUp" data-wow-duration='1000ms' data-wow-delay='600ms'>
+                                    <div class="benefits-three__list__icon">
+                                        <i class="icon-best-customer-experience-2"></i>
+                                    </div>
+                                    <div class="benefits-three__list__content">
+                                        <!-- <h4 class="benefits-three__list__title"><a href="packages.html">Transfer Website & Domain</a></h4> -->
+                                        <p class="benefits-three__list__text text-lg">Have a scalable product with potential market fit
+                                        </p>
+                                    </div>
+                                </li>
+
+                                <li class="benefits-three__list__item wow fadeInUp" data-wow-duration='1000ms' data-wow-delay='700ms'>
+                                    <div class="benefits-three__list__icon">
+                                        <i class="icon-guru-1"></i>
+                                    </div>
+                                    <div class="benefits-three__list__content">
+                                        <!-- <h4 class="benefits-three__list__title"><a href="packages.html">Unlimited Database</a></h4> -->
+                                        <p class="benefits-three__list__text text-lg">Be looking for capital, mentorship, or industry connections to scale further
+                                        </p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="benefits-three__right wow fadeInRight" data-wow-duration='1000ms' data-wow-delay='500ms'>
+                            <div class="benefits-three__thumb">
+                                <img src="assets/images/resources/benefit-3-1.png" alt="benefits image">
+                            </div>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+       
+
+        <footer class="main-footer main-footer__two">
+            <div class="main-footer__two__bg" style="background-image: url(assets/images/shapes/footer-shape-2-1.png);"></div>
+
+            <div class="main-footer__middle main-footer__middle--two">
+                <div class="container">
+                    <div class="row flex items-center justify-center mx-auto">
+
+                        <div class="col-md-6 col-xl-4">
+                            <div class="footer-widget--info footer-widget__info__two flex flex-col">
+                                <a href="" class="footer-widget__logo mx-auto items-center justify-center">
+                                    <img src="/img/logo-white.svg" width="158" alt="footer logo">
+                                </a><!-- /.footer-widget__logo -->
+                                <p class="footer-widget__text text-center">G3B, Thejaswini, Technopark Rd, Technopark Campus, Karyavattom, Thiruvananthapuram, Kerala 695581</p><!-- /.footer-widget__text -->
+                               
+                            </div><!-- /.footer-widget -->
+                        </div><!-- /.col-md-6 -->
+
+                        <div class="col-md-6 col-xl-2 items-center justify-center flex flex-col mx-auto">
+                            <div class="footer-widget--company footer-widget__company__two">
+                                <ul class="list-unstyled footer-widget__links">
+                                    <li class="footer-widget__links__item"><a href="/">Home</a></li>
+                                    <li class="footer-widget__links__item"><a href="#about">About</a></li>
+                                    <li class="footer-widget__links__item"><a href="#What_We_Offer">What We Offer</a></li>
+                                </ul><!-- /.list-unstyled footer-widget__links -->
+                            </div><!-- /.footer-widget -->
+                        </div><!-- /.col-md-6 -->
+
+                        <div class="col-md-6 col-xl-2 items-center justify-center flex flex-col mx-auto">
+                            <div class="footer-widget--company footer-widget__company__two">
+                                <ul class="list-unstyled footer-widget__links">
+                                    <li class="footer-widget__links__item"><a href="#Eligibility">Eligibility</a></li>
+                                    <li class="footer-widget__links__item"><a href="#Contact">Contact</a></li>
+                                    <li class="footer-widget__links__item"><a href="">Apply Now</a></li>
+
+                                </ul><!-- /.list-unstyled footer-widget__links -->
+                            </div><!-- /.footer-widget -->
+                        </div><!-- /.col-md-6 -->
+
+                        <div class="col-md-6 col-xl-2 items-center justify-center flex flex-col mx-auto">
+                            <div class="footer-widget--right footer-widget__right__two">
+                                <div class="footer-widget__social mx-auto items-center justify-center">
+                                    <a href=""><i class="fab fa-facebook-f" aria-hidden="true"></i> <span class="sr-only">Facebook</span> </a>
+                                    <a href=""><i class="fab fa-twitter" aria-hidden="true"></i><span class="sr-only">Twitter</span></a>
+                                    <a href=""><i class="fab fa-instagram" aria-hidden="true"></i> <span class="sr-only">Instagram</span> </a>
+                                </div><!-- /.footer-widget__social -->
+                            </div><!-- /.footer-widget -->
+                        </div><!-- /.col-md-6 -->
+                    </div><!-- /.row -->
+                </div><!-- /.container -->
+            </div><!-- /.main-footer__middle -->
+        </footer><!-- /.main-footer -->
+
+    </div><!-- /.page-wrapper -->
+
+
+
+    <div class="mobile-nav__wrapper">
+        <div class="mobile-nav__overlay mobile-nav__toggler"></div>
+        <!-- /.mobile-nav__overlay -->
+        <div class="mobile-nav__content">
+            <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
+
+            <div class="logo-box">
+                <a href="index.html" aria-label="logo image"><img src="assets/images/logo-light.png" width="155" alt="logo image"></a>
+            </div>
+
+            <div class="mobile-nav__container"></div>
+
+            <ul class="mobile-nav__contact list-unstyled">
+                <li>
+                    <i class="fa fa-envelope"></i>
+                    <a href="mailto:needhelp@hostom.com">needhelp@hostom.com</a>
+                </li>
+                <li>
+                    <i class="fa fa-phone-alt"></i>
+                    <a href="tel:666-888-0000">666 888 0000</a>
+                </li>
+            </ul><!-- /.mobile-nav__contact -->
+            <div class="mobile-nav__social">
+                <a href="https://facebook.com"><i class="fab fa-facebook-f" aria-hidden="true"></i> <span class="sr-only">Facebook</span> </a>
+                <a href="https://twitter.com"><i class="fab fa-twitter" aria-hidden="true"></i><span class="sr-only">Twitter</span></a>
+                <a href="https://pinterest.com"><i class="fab fa-pinterest-p" aria-hidden="true"></i> <span class="sr-only">Pinterest</span> </a>
+                <a href="https://instagram.com"><i class="fab fa-instagram" aria-hidden="true"></i> <span class="sr-only">Instagram</span> </a>
+            </div><!-- /.mobile-nav__social -->
+        </div>
+        <!-- /.mobile-nav__content -->
+    </div>
+    <div class="search-popup">
+        <div class="search-popup__overlay search-toggler"></div>
+        <!-- /.search-popup__overlay -->
+        <div class="search-popup__content">
+            <form role="search" method="get" class="search-popup__form" action="#">
+                <input type="text" id="search" placeholder="Search Here...">
+                <button type="submit" aria-label="search submit" class="hostom-btn hostom-btn--base">
+                    <span><i class="icon-search"></i></span>
+                </button>
+            </form>
+        </div>
+        <!-- /.search-popup__content -->
+    </div>
+    <!-- /.search-popup -->
+
+    <a href="#" data-target="html" class="scroll-to-target scroll-to-top">
+        <span class="scroll-to-top__text">back top</span>
+        <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span>
+    </a>
+
+</Layout>
+
+    <!--  ALl JS Plugins =====================
+    ====================================== -->
+    <!--  jquery-3.7.0 js plugins -->
+   
