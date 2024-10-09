@@ -14638,7 +14638,6 @@ body.megamenu-popup-active .mobile-nav__content {
   position: absolute;
   top: 40%;
   left: 85%;
-  animation: textRotate 4s ease-in-out 1s infinite;
   display: inline-block;
 }
 @media (max-width: 1400px) {
